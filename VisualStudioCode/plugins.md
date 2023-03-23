@@ -1,0 +1,11 @@
+- Dev Containers
+- Docker
+- DotENV
+- EditorConfig for VS Code
+- ES7+ React/Redux/React-Native snippets
+- ESLint
+- Japanese Language Pack for Visual Studio Code
+- Jest
+- Prettier - Code formatter
+- zenkaku
+- Save Typing
